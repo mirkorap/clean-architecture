@@ -1,0 +1,40 @@
+# Clean Architecture
+
+Questo book ha lo scopo di riassumere in breve tutti i concetti presenti all'interno del libro "Clean Architecture" di Robert C. Martin \(Uncle Bob\). Di seguito sono presenti le sezioni per ogni tipo di argomento trattato all'interno del libro.
+
+### Tabella dei contenuti
+
+1. [Che cosa si intende per struttura e architettura](https://mirkorap16.gitbook.io/clean-architecture/che-cosa-si-intende-per-struttura-e-architettura)
+2. [Due diversi oggetti di valore](https://mirkorap16.gitbook.io/clean-architecture/due-diversi-oggetti-di-valore)
+3. [Panoramica sui paradigmi](https://mirkorap16.gitbook.io/clean-architecture/panoramica-sui-paradigmi)
+4. [La programmazione strutturata](https://mirkorap16.gitbook.io/clean-architecture/la-programmazione-strutturata)
+5. [La programmazione ad oggetti](https://mirkorap16.gitbook.io/clean-architecture/la-programmazione-ad-oggetti)
+6. [La programmazione funzionale](https://mirkorap16.gitbook.io/clean-architecture/la-programmazione-funzionale)
+7. [Principi di progettazione](https://mirkorap16.gitbook.io/clean-architecture/principi-di-progettazione)
+8. [Il principio SRP \(Single Responsibility Principle\)](https://mirkorap16.gitbook.io/clean-architecture/il-principio-srp)
+9. [Il principio OCP \(Open-Closed Principle\)](https://mirkorap16.gitbook.io/clean-architecture/il-principio-ocp)
+10. [Il principio LSP \(Liskov Substitution Principle\)](https://mirkorap16.gitbook.io/clean-architecture/il-principio-lsp)
+11. [Il principio ISP \(Interface Segregation Principle\)](https://mirkorap16.gitbook.io/clean-architecture/il-principio-isp)
+12. [Il principio DIP \(Dependency Inversion Principle\)](https://mirkorap16.gitbook.io/clean-architecture/il-principio-dip)
+13. [I componenti](https://mirkorap16.gitbook.io/clean-architecture/i-componenti)
+14. [Coesione dei componenti](https://mirkorap16.gitbook.io/clean-architecture/coesione-dei-componenti)
+15. [Accoppiamento dei componenti](https://mirkorap16.gitbook.io/clean-architecture/accoppiamento-dei-componenti)
+16. [Che cos'è l'architettura?](https://mirkorap16.gitbook.io/clean-architecture/che-cose-larchitettura)
+17. [Indipendenza](https://mirkorap16.gitbook.io/clean-architecture/indipendenza)
+18. [Delimitazioni: tracciare una linea](https://mirkorap16.gitbook.io/clean-architecture/delimitazioni-tracciare-una-linea)
+19. [Anatomia di una delimitazione](https://mirkorap16.gitbook.io/clean-architecture/anatomia-di-una-delimitazione)
+20. [Politiche e livelli](https://mirkorap16.gitbook.io/clean-architecture/politiche-e-livelli)
+21. [Regole operative](https://mirkorap16.gitbook.io/clean-architecture/regole-operative)
+22. [Architettura "da urlo"](https://mirkorap16.gitbook.io/clean-architecture/architettura-da-urlo)
+23. [Architettura clean](https://mirkorap16.gitbook.io/clean-architecture/architettura-clean)
+24. [Presenter e Humble Objects](https://mirkorap16.gitbook.io/clean-architecture/presenter-e-humble-objects)
+25. [Delimitazioni parziali](https://mirkorap16.gitbook.io/clean-architecture/delimitazioni-parziali)
+26. [Livelli e delimitazioni](https://mirkorap16.gitbook.io/clean-architecture/livelli-e-delimitazioni)
+27. [Servizi: grandi e piccoli](https://mirkorap16.gitbook.io/clean-architecture/servizi-grandi-e-piccoli)
+28. [Delimitazione di test](https://mirkorap16.gitbook.io/clean-architecture/delimitazione-di-test)
+29. [Il database è un dettaglio](https://mirkorap16.gitbook.io/clean-architecture/il-database-e-un-dettaglio)
+30. [Il Web è un dettaglio](https://mirkorap16.gitbook.io/clean-architecture/il-web-e-un-dettaglio)
+31. [I framework sono un dettaglio](https://mirkorap16.gitbook.io/clean-architecture/i-framework-sono-un-dettaglio)
+32. [Caso di studio: vendita di video](https://mirkorap16.gitbook.io/clean-architecture/caso-di-studio-vendita-di-video)
+33. [Manca ancora qualcosa...](https://mirkorap16.gitbook.io/clean-architecture/manca-ancora-qualcosa...)
+
